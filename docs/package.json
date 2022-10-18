@@ -1,0 +1,19 @@
+{
+  "name": "iesalonsodemadrigal",
+  "version": "0.0.1",
+  "description": "Website IES Alonso de Madrigal",
+  "main": "index.js",
+  "authors": {
+    "name": "Chema",
+    "email": "josem.perram@educa.jcyl.es"
+  },
+  "repository": "https://github.com/iesalonsodemadrigal/website.git/iesalonsodemadrigal",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
