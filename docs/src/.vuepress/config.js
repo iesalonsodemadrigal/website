@@ -7,6 +7,7 @@ module.exports = {
   title: 'Vuepress Docs Boilerplate',
 
   base: '/website/',
+
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */

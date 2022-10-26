@@ -9,8 +9,8 @@
   },
   "repository": "https://github.com/iesalonsodemadrigal/website.git/iesalonsodemadrigal",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
   },
   "license": "MIT",
   "devDependencies": {
